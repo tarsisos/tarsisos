@@ -25,6 +25,10 @@ Bacharel em Engenharia de Computação :mortar_board: :computer:.
 * :sound: Ouvir música
 * :movie_camera: Assistir séries e filmes
 
+Idiomas:
+* :us: Inglês
+* :es: Espanhol
+
 <br/> Contatos:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1tosantos/)

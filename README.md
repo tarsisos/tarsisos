@@ -10,7 +10,6 @@ Bacharel em Engenharia de Computação :mortar_board: :computer:.
  * HTML5 
  * CSS3 
  * JavaScript
- * React 
 
 :blush: &nbsp; Linguagens conhecidas:
 * C++ 

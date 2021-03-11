@@ -11,7 +11,6 @@ Bacharel em Engenharia de Computação :mortar_board: :computer:.
 | HTML       | C++    | MySQL  |
 | CSS        | Python |        |
 | JavaScript | R      |        |
-|            |        |        |
 
 :video_game: :sound: :movie_camera:
 

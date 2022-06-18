@@ -1,29 +1,27 @@
-# Társis Santos
+## Hello there:wave:
+### My name is Társis
+##### :house: Vitória da Conquista - BA :snowflake:
 
-## Olá :relaxed: :thumbsup:
-Bacharel em Engenharia de Computação :mortar_board: :computer:.
+:mortar_board: I have a bachelor degree in Computer Engineering :computer:
 
-:house: Vitória da Conquista - BA :snowflake:
+:book: Currently studying Data Analysis and Data Science 👨‍💻
 
+:thinking: Looking for an opportunity to work in Data area.
 
-| :beginner: WEB | Programming  | DataBase
-|------------|--------|--------|
-| HTML       | C++    | MySQL  |
-| CSS        | Python |        |
-| JavaScript | R      |        |
+##### Programming languages: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height= 50 width = 50/>	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height= 50 width = 50/>
 
-:video_game: :sound: :movie_camera:
+##### Using the following Python libraries:
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Scikit-learn          
 
-Idiomas:
-* :us: Inglês
-* :es: Espanhol
+#### You can contact me through:
 
-<br/> Contacts:
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1tosantos/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarsissan@gmail.com)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarsisos)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tarsisos)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1tosantos/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarsissan@gmail.com) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tarsisos)
 
 [![Társis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarsisos&show_icons&theme=merko)](https://github.com/tarsisos/github-readme-stats)
 

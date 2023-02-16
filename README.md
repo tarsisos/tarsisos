@@ -11,14 +11,6 @@
 ##### Programming languages: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height= 50 width = 50/>	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height= 50 width = 50/>
 
-##### Using the following Python libraries:
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Scikit-learn          
-
 #### You can contact me through:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarsisos/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarsissan@gmail.com) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@765626106422231133)

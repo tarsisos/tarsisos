@@ -1,15 +1,30 @@
-## Hello there:wave:
+## Hello there :wave:
 ### My name is Társis
 ##### :house: Vitória da Conquista - BA :snowflake:
 
-:mortar_board: I have a bachelor degree in Computer Engineering :computer:
+I have a bachelor degree in Computer Engineering :computer: :mortar_board: 
 
-:book: Currently studying Data Analysis and Data Science 👨‍💻
+Currently studying Data Analysis and Data Science 👨‍💻 
 
-:thinking: Looking for an opportunity to work in Data area.
+Looking for an opportunity to work in Data area.
 
-##### Programming languages: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height= 50 width = 50/>	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height= 50 width = 50/>
+##### Tech Stack:
+<p align="center" padding=10em>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width = 10%/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width = 10%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width = 10%/>
+</p>
+<p align="center" space="between">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = 10%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width = 10%/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width = 10%/>
+</p>
+<div align = "center">
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width = 10%/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = 10%/>
+  </p>
+</div>
 
 #### You can contact me through:
 

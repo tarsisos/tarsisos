@@ -1,12 +1,11 @@
 ## Hello there:wave:
 ### My name is Társis
-##### :house: Vitória da Conquista - BA :snowflake:
+##### 🏡 Vitória da Conquista - BA ❄
 
-:mortar_board: I have a bachelor degree in Computer Engineering :computer:
+I have a bachelor degree in Computer Engineering 👨‍🎓👨‍💻🖥
 
-:book: Currently studying Data Analysis and Data Science 👨‍💻
+Currently studying Data Analysis and Data Science 📚📊📈
 
-:thinking: Looking for an opportunity to work in Data area.
 
 ##### Programming languages: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height= 50 width = 50/>	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height= 50 width = 50/>
